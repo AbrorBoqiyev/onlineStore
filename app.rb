@@ -1,2 +1,7 @@
 
-puts 'hello world'
+
+def sayHello(name)
+  puts "hello #{name}"
+end
+
+sayHello("Jane")
